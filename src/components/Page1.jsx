@@ -14,7 +14,7 @@ const Page1 = () => {
         gap: 5,
       }}
     >
-      <Typography variant="h5" color="primary">
+      <Typography variant="h3" color="primary">
         Welcome to Page 1
       </Typography>
       <Typography variant="body1">
