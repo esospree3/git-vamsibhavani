@@ -11,7 +11,7 @@ const Page2 = () => {
         display: "flex",
         flexDirection: "row",
         alignItems: "center",
-        gap: 2,
+        gap: 3,
       }}
     >
       <Typography variant="h5" color="secondary">

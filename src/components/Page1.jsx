@@ -11,7 +11,7 @@ const Page1 = () => {
         display: "flex",
         flexDirection: "column",
         placeItems: "center",
-        gap: 5,
+        gap: 3,
       }}
     >
       <Typography variant="h3" color="primary">
