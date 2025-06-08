@@ -9,7 +9,7 @@ const Page2 = () => {
     <Box
       sx={{
         display: "flex",
-        flexDirection: "column",
+        flexDirection: "row",
         alignItems: "center",
         gap: 2,
       }}
